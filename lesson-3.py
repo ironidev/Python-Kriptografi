@@ -28,3 +28,4 @@ for kunci in range(len(HURUF)):
             ubah = ubah + symbol
 
     print('Key #%s: %s' % (kunci, ubah))
+

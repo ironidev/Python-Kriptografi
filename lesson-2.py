@@ -42,3 +42,27 @@ print(range(len(HURUF)))
 #menyalin hasil enkripsi/dekripsi pada penyimpanan sementara
 pyperclip.copy(ubah)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

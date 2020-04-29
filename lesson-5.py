@@ -2,7 +2,7 @@
 # Dekripsi dengan sandi Transposisi
 # Editor : Matius Celcius Sinaga
 # Author : # http://inventwithpython.com/hacking (BSD Licensed)
-# ################################################################
+#################################################################
 
 import math, pyperclip
 
