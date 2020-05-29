@@ -9,7 +9,7 @@ import pyperclip
 pesan = 'Indonesia Raya'
 kunci = 9
 mode = 'encrypt'
-HURUF ='ABCDEFGHIJKLMNOPWRSTUVWXYZ'
+HURUF ='ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 ubah = ''
 
 pesan = pesan.upper()
